@@ -24,11 +24,13 @@
 
 #### 3. Ejecutar programa en consola
 * python
-```python [archivo].py
+```
+python [archivo].py
 ```
 
 * Julia
-```julia [archivo].jl
+```
+julia [archivo].jl
 ```
 
 #### 4. Moverse a traves de la consola
