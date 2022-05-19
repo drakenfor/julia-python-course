@@ -16,11 +16,11 @@
 * Sublime Material Theme
 
 #### 2. Atajos de visual studio code
-* Ctrl + j: abrir y ocultar consola
-* Ctrl + b: abrir y ocultar barra de herramientas
-* Ctrl + n: Crear nuevo archivo
-* Ctrl + o: abrir archivo
-* Ctrl + s: guardar archivo
+* `Ctrl + j`: abrir y ocultar consola
+* `Ctrl + b`: abrir y ocultar barra de herramientas
+* `Ctrl + n`: Crear nuevo archivo
+* `Ctrl + o`: abrir archivo
+* `Ctrl + s`: guardar archivo
 
 #### 3. Ejecutar programa en consola
 * python
